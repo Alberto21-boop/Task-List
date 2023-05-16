@@ -1,0 +1,15 @@
+.topo {
+  background: #000000;
+  color: #5e60ce;
+
+  width: auto;
+  height: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 100px;
+}
